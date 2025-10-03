@@ -1,0 +1,27 @@
+
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   1433.40 sec.
+    Max Memory :                                 2519 MB
+    Average Memory :                             2332.64 MB
+    Total Requested Memory :                     228000.00 MB
+    Delta Memory :                               225481.00 MB
+    Max Swap :                                   -
+    Max Processes :                              7
+    Max Threads :                                526
+    Run time :                                   1115 sec.
+    Turnaround time :                            1099 sec.
+
+The output (if any) follows:
+
+UNI model loaded from HF hub.
+Wrote metrics to runs/exp001/eval_test/metrics.json and report to runs/exp001/eval_test/report.md
+
+
+PS:
+
+Read file <./log/7063737_seg.err> for stderr output of this job.
+

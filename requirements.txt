@@ -1,0 +1,17 @@
+# Core
+torch>=2.0.0
+torchvision>=0.15.0
+timm>=0.9.16
+huggingface_hub>=0.23.0
+# Data & image
+opencv-python>=4.7.0
+albumentations>=1.4.0
+scikit-image>=0.21.0
+numpy>=1.24.0
+pandas>=2.0.0
+# Utils
+matplotlib>=3.7.0
+tqdm>=4.66.0
+pyyaml>=6.0.1
+# Optional for COCO style (not required here)
+# pycocotools>=2.0.6

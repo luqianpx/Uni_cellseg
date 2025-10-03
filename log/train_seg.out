@@ -1,0 +1,77 @@
+
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   70539.00 sec.
+    Max Memory :                                 3796 MB
+    Average Memory :                             2824.36 MB
+    Total Requested Memory :                     228000.00 MB
+    Delta Memory :                               224204.00 MB
+    Max Swap :                                   -
+    Max Processes :                              9
+    Max Threads :                                662
+    Run time :                                   12186 sec.
+    Turnaround time :                            12186 sec.
+
+The output (if any) follows:
+
+UNI model loaded from HF hub.
+Epoch 1: train_loss=0.9922  val_loss=0.7784
+Epoch 2: train_loss=0.7243  val_loss=0.6603
+Epoch 3: train_loss=0.6406  val_loss=0.6601
+Epoch 4: train_loss=0.5859  val_loss=0.5502
+Epoch 5: train_loss=0.5540  val_loss=0.5349
+Epoch 6: train_loss=0.5477  val_loss=0.4814
+Epoch 7: train_loss=0.4984  val_loss=0.4737
+Epoch 8: train_loss=0.4863  val_loss=0.4471
+Epoch 9: train_loss=0.4790  val_loss=0.4474
+Epoch 10: train_loss=0.4627  val_loss=0.4344
+Epoch 11: train_loss=0.4563  val_loss=0.4301
+Epoch 12: train_loss=0.4510  val_loss=0.4272
+Epoch 13: train_loss=0.4427  val_loss=0.4246
+Epoch 14: train_loss=0.4406  val_loss=0.4188
+Epoch 15: train_loss=0.4280  val_loss=0.4101
+Epoch 16: train_loss=0.4310  val_loss=0.4222
+Epoch 17: train_loss=0.4263  val_loss=0.4298
+Epoch 18: train_loss=0.4268  val_loss=0.4066
+Epoch 19: train_loss=0.4177  val_loss=0.4326
+Epoch 20: train_loss=0.4222  val_loss=0.4290
+Epoch 21: train_loss=0.4166  val_loss=0.3940
+Epoch 22: train_loss=0.4071  val_loss=0.3898
+Epoch 23: train_loss=0.4084  val_loss=0.3988
+Epoch 24: train_loss=0.4035  val_loss=0.3918
+Epoch 25: train_loss=0.3989  val_loss=0.4140
+Epoch 26: train_loss=0.4027  val_loss=0.3913
+Epoch 27: train_loss=0.3960  val_loss=0.3927
+Epoch 28: train_loss=0.3986  val_loss=0.3839
+Epoch 29: train_loss=0.3938  val_loss=0.3854
+Epoch 30: train_loss=0.3897  val_loss=0.3981
+Epoch 31: train_loss=0.3893  val_loss=0.3838
+Epoch 32: train_loss=0.3939  val_loss=0.3867
+Epoch 33: train_loss=0.3846  val_loss=0.3813
+Epoch 34: train_loss=0.3845  val_loss=0.3875
+Epoch 35: train_loss=0.3840  val_loss=0.3922
+Epoch 36: train_loss=0.3887  val_loss=0.3854
+Epoch 37: train_loss=0.3805  val_loss=0.4039
+Epoch 38: train_loss=0.3831  val_loss=0.3766
+Epoch 39: train_loss=0.3822  val_loss=0.3714
+Epoch 40: train_loss=0.3779  val_loss=0.3959
+Epoch 41: train_loss=0.3773  val_loss=0.3815
+Epoch 42: train_loss=0.3766  val_loss=0.4095
+Epoch 43: train_loss=0.3715  val_loss=0.3713
+Epoch 44: train_loss=0.3712  val_loss=0.3827
+Epoch 45: train_loss=0.3760  val_loss=0.3861
+Epoch 46: train_loss=0.3709  val_loss=0.3775
+Epoch 47: train_loss=0.3664  val_loss=0.3832
+Epoch 48: train_loss=0.3687  val_loss=0.3801
+Epoch 49: train_loss=0.3679  val_loss=0.3906
+Epoch 50: train_loss=0.3666  val_loss=0.3770
+Best val loss: 0.3713 at runs/exp001/checkpoints/best.pt
+
+
+PS:
+
+Read file <./log/7062528_seg.err> for stderr output of this job.
+
